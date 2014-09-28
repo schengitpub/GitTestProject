@@ -1,3 +1,6 @@
 This is the master text file
 The first added line of the text file
 Adding a second line to this text file
+
+>
+I'm adding a new line in the dev branch
