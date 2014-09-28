@@ -2,5 +2,10 @@ This is the master text file
 The first added line of the text file
 Adding a second line to this text file
 
+
 Adding a third line to this text file
 work work work
+=======
+>
+I'm adding a new line in the dev branch
+
