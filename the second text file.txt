@@ -1,2 +1,3 @@
 This is the second text file
+adding a few lines to the second text file
 
